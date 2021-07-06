@@ -8,10 +8,12 @@
 </head>
 <body>
     <?php
-    $_message = "Test & Changes";
-     echo "Make $_message"; 
-     
-     
+    
+    $numberFive = "Mike";
+    $newVar = 5;
+    $floatingVar = 10.4;
+
+    
      ?>
 </body>
 </html>
